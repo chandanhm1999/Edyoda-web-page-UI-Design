@@ -16,12 +16,14 @@ https://edyoda-web-page-ui-design.vercel.app/
 
 ## Module Page:
 
-There are 3 types: Topic, Quiz, Assignment. the different symbols to show each active item on left vertical bar
-When clicked on Topic show the right-side content like shown in Module - Topic Screenshot
-When clicked on Quiz show the right-side content like shown in Module - Quiz Screenshot
-When clicked on Assignment show the right-side content like shown in Module - Assignment Screenshot
+* There are 3 types: Topic, Quiz, Assignment. the different symbols to show each active item on left vertical bar
+* When clicked on Topic show the right-side content like shown in Module - Topic Screenshot
+* When clicked on Quiz show the right-side content like shown in Module - Quiz Screenshot
+* When clicked on Assignment show the right-side content like shown in Module - Assignment Screenshot
 
-## Instructor Page: There is no functionality here. This page is just to be added on route & Placed a Instructor video!
+## Instructor Page: 
+*There is no functionality here. 
+*This page is just to be added on route & Placed a Instructor video!
 
 ## Project Link:
 ```
