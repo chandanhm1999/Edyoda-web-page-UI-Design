@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+.card_01{
+    width: 216px;
+    height: 744px;
+    position: relative;
+    top: -20px;
+    left: -20px;
+    background: rgb(222, 219, 244);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba( 67, 19, 0.28);
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: black;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.main_19{
+    position: relative;
+    
+    left: 0px;
+    top: -20px;
+    padding: 15px;
+    padding-left: 60px;
+    padding-right: 69px;
+    font-size: 14px;
+    color: #15294b;
+}
+.main_19:hover{
+    border: 1px solid #15294b;
+    background: #15294b;
+    color: white;
+}
+.play{
+    position: relative;
+    top: 22px;
+    left: 25px;
+    color: #15294b;
+    font-size: 22px;
+}
+.main_19:hover .play:hover{
+    color: white;
+}
+.main_29{
+    position: relative;
+    
+    left: 0px;
+    top: -46px;
+    padding: 17px;
+    padding-left: 60px;
+    padding-right: 69px;
+    font-size: 11px;
+    color: #15294b;
+}
+.main_29:hover{
+    border: 1px solid #15294b;
+    background: #15294b;
+    color: white;
+}
+.play_19{
+    position: relative;
+    top: -6px;
+    left: 25px;
+    color: gray;
+    font-size: 22px;
+}
+.main_39{
+    position: relative;
+    
+    left: 0px;
+    top: -73px;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 80px;
+    font-size: 11px;
+    color: #15294b;
+}
+.main_39:hover{
+    border: 1px solid #15294b;
+    background: #15294b;
+    color: white;
+}
+.play_29{
+    position: relative;
+    top: -33px;
+    left: 25px;
+    color: gray;
+    font-size: 22px;
+}
+.play_39{
+    position: relative;
+    top: -89px;
+    left: 35px;
+    color: gray;
+    font-size: 10px;
+}

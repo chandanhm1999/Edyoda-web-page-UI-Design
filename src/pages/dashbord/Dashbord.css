@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+.main{
+    position: relative;
+    top: 30px;
+    left: 50px;
+    color: black;
+}
+.card_1{
+    width: 932px;
+    height: 144px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(33, 67, 19, 0.28);
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: black;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.photo_1{
+    position: relative;
+    left: 50px;
+    top: 27px;
+}
+.idel_1{
+    position: relative;
+    font-size: 12px;
+    color: darkgray;
+    border: silver;
+    top: -90px;
+    left: 200px;
+}
+.data_1{
+    position: relative;
+    width: 200px;
+    top: -95px;
+    left: 200px;
+    font-size: 16px;
+}
+.idel_2{
+    position: relative;
+    font-size: 12px;
+    color: darkgray;
+    border: silver;
+    background: lightcyan;
+    top: -110px;
+    left: 200px;
+    border-radius: 5px;
+}
+.dat_2{
+    position: relative;
+    width: 200px;
+    top: -215px;
+    left: 450px;
+    font-size: 16px;
+}
+.dat_3{
+    position: relative;
+    width: 180px;
+    top: -225px;
+    left: 450px;
+    font-size: 12px;
+    color: slategrey;
+}
+.dat_4{
+    position: relative;
+    width: 180px;
+    top: -225px;
+    left: 450px;
+    font-size: 12px;
+    color: slategrey;
+}
+.idel_3{
+    position: relative;
+    font-size: 12px;
+    color: black;
+    border: silver;
+    background: gainsboro;
+    top: -298px;
+    left: 520px;
+    border-radius: 5px;
+}
+.idel_4{
+    position: relative;
+    font-size: 12px;
+    color: black;
+    border: silver;
+    background: gainsboro;
+    top: -298px;
+    left: 550px;
+    border-radius: 5px;
+}
+.idel_5{
+    position: relative;
+    font-size: 12px;
+    color: black;
+    border: silver;
+    background: gainsboro;
+    top: -262px;
+    left: 430px;
+    border-radius: 5px;
+}
+.idel_6{
+    position: relative;
+    font-size: 12px;
+    color: #0084ff;
+    border: 1px solid #0084ff;
+    background: white;
+    top: -285px;
+    left: 580px;
+    border-radius: 22px;
+    padding: 7px;
+}
+.main_2{
+    position: relative;
+    top: 70px;
+    left: 50px;
+    color: black;
+}
+.card_2{
+    width: 682px;
+    height: 274px;
+    position: relative;
+    top: 70px;
+    left: 50px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(33, 67, 19, 0.28);
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: black;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.main_3{
+    position: relative;
+    color: #0084ff;
+    font-size: 18px;
+    left: 510px;
+    top: 68px;
+}
+.photo_2{
+    position: relative;
+    left: 50px;
+    top: 37px;
+}
+.data23_1{
+    position: relative;
+    width: 200px;
+    top: -70px;
+    left: 170px;
+    font-size: 16px;
+}
+.photo_3{
+    position: relative;
+    left: 140px;
+    top: -70px;
+}
+.main2_4{
+    position: relative;
+    color: #0084ff;
+    font-size: 18px;
+    left: 200px;
+    top: -120px;
+}
+
+.class_1{
+    position: relative;
+    font-size: 15px;
+    color: lightslategray;
+    top: -110px;
+    left: 90px;
+}
+.class_2{
+    position: relative;
+    font-size: 15px;
+    color: lightslategray;
+    top: -110px;
+    left: 90px;
+}
+.class_3{
+    position: relative;
+    font-size: 15px;
+    color: lightslategray;
+    top: -110px;
+    left: 90px;
+}
+.output_tag{
+    position: relative;
+    top: -210px;
+    left: 250px;
+}
+.output_tag1{
+    position: relative;
+    top: -210px;
+    left: 250px;
+}
+.output_tag2{
+    position: relative;
+    top: -210px;
+    left: 250px;
+}
+.vl_1 {
+    border-left: 1px solid #0084ff;
+    height: 273px;
+    position: relative;
+    top: -462px;
+    left: 400px;
+}
+.Today_1{
+    position: relative;
+    top: -710px;
+    left: 442px;
+    color: black;
+    font-size: 18px;
+}
+.Today_2{
+    position: relative;
+    top: -720px;
+    left: 442px;
+    color: gray;
+    font-size: 11px;
+}
+.main2_43{
+    position: relative;
+    top: -700px;
+    left: 442px;
+    color: #0084ff;
+    font-size: 18px;
+    width: 200px;
+}
+.Today_3{
+    position: relative;
+    top: -700px;
+    left: 442px;
+    color: gray;
+    font-size: 14px;
+}
+.idel_7{
+    position: relative;
+    font-size: 12px;
+    color: black;
+    border: 1px solid lightgrey;
+    background: lightgrey;
+    top: -705px;
+    left: 455px;
+    border-radius: 22px;
+    padding: 7px;
+}
+.Today_21{
+    position: relative;
+    top: -710px;
+    left: 472px;
+    color: gray;
+    font-size: 11px;
+}
+.Today_22{
+    position: relative;
+    top: -800px;
+    left: 572px;
+    color: #0084ff;
+    font-size: 11px;
+}
+.card_3{
+    width: 290px;
+    height: 274px;
+    position: relative;
+    top: -204px;
+    left: 820px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(33, 67, 19, 0.28);
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: black;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.data23_12{
+    position: relative;
+    width: 200px;
+    top: 20px;
+    left: 75px;
+    font-size: 16px;
+}
+.output_tag_1{
+    position: relative;
+    top: 25px;
+    left: 60px;
+    border: 1px solid #0084ff;
+    width: 130px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.output_tag_2{
+    position: relative;
+    top: 40px;
+    left: 60px;
+    border: 1px solid #0084ff;
+    width: 130px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.view_2{
+    position: relative;
+    font-size: 16px;
+    color: #0084ff;
+    top: 45px;
+    left: 60px;
+}
+.Today_09{
+    position: relative;
+    top: -140px;
+    left: 90px;
+    color: gray;
+    font-size: 26px;
+}
+.Today_08{
+    position: relative;
+    top: -85px;
+    left: 90px;
+    color: gray;
+    font-size: 26px;
+}
+.Today_07{
+    position: relative;
+    top: -205px;
+    left: 140px;
+    color: gray;
+    font-size: 11px;
+}
+.Today_06{
+    position: relative;
+    top: -148px;
+    left: 140px;
+    color: gray;
+    font-size: 11px;
+}

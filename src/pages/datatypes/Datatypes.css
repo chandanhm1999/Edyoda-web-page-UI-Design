@@ -1,0 +1,206 @@
+.datatypes_1{
+    width: 1170px;
+    height: 500px;
+    border: 0.5px solid silver;
+    box-shadow: 0px 0px 10px rgba(33, 67, 19, 0.28);
+    position: relative;
+    top: -60px;
+    left: 40px;
+}
+.data_type_12{
+    position: relative;
+    top: 35px;
+    left: 60px;
+    font-size: 28px;
+    font-weight: 500;
+}
+.desc_16{
+    position: relative;
+    left: 60px;
+    top: 49px;
+    color: gray;
+}
+.Quiz_12{
+    position: relative;
+    color: black;
+    font-size: 16px;
+    left: 60px;
+    top: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.data_type_card{
+    width: 1042px;
+    height: 144px;
+    position: relative;
+    top: 100px;
+    left: 60px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(33, 67, 19, 0.28);
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    /* identical to box height */
+
+
+    color: black;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.que_10{
+    position: relative;
+    left: 100px;
+    top: 43px;
+    color: gray;
+    font-size: 34px;
+}
+.que_11{
+    position: relative;
+    left: 90px;
+    top: 35px;
+    color: gray;
+    font-size: 14px;
+    font-weight: 300;
+}
+.que_101{
+    position: relative;
+    left: 270px;
+    top: -26px;
+    color: gray;
+    font-size: 34px;
+}
+.que_111{
+    position: relative;
+    left: 250px;
+    top: -33px;
+    color: gray;
+    font-size: 14px;
+    font-weight: 300;
+}
+.que_1012{
+    position: relative;
+    left: 415px;
+    top: -93px;
+    color: gray;
+    font-size: 34px;
+}
+.que_1112{
+    position: relative;
+    left: 408px;
+    top: -100px;
+    color: gray;
+    font-size: 14px;
+    font-weight: 300;
+}
+.vl{
+    position: relative;
+    height: 20px;
+}
+.line_1{
+    position: relative;
+    font-size: 120px;
+    font-weight: 100;
+    color: gainsboro;
+    left: 550px;
+    top: -160px;
+}
+.start_0{
+    position: relative;
+    left: 640px;
+    top: -226px;
+    color: black;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.start_01{
+    position: relative;
+    left: 640px;
+    top: -226px;
+    color: #0084ff;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.start_02{
+    position: relative;
+    left: 670px;
+    top: -259px;
+    color: gray;
+    font-size: 34px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.start_03{
+    position: relative;
+    left: 670px;
+    top: -259px;
+    color: gray;
+    font-size: 34px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.start_04{
+    position: relative;
+    left: 640px;
+    top: -294px;
+    color: #0084ff;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.start_09{
+    position: relative;
+    left: 840px;
+    top: -396px;
+    color: black;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.start_019{
+    position: relative;
+    left: 840px;
+    top: -398px;
+    color: #0084ff;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.start_029{
+    position: relative;
+    left: 870px;
+    top: -432px;
+    color: gray;
+    font-size: 34px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.start_039{
+    position: relative;
+    left: 870px;
+    top: -430px;
+    color: gray;
+    font-size: 34px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.start_049{
+    position: relative;
+    left: 840px;
+    top: -464px;
+    color: #0084ff;
+    font-size: 34px;
+    font-size: 18px;
+    font-weight: 400;
+}

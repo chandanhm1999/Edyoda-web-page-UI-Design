@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
+.dta_pro {
+    background-color: #15294b;
+    width: 1480px;
+    height: 65px;
+}
+
+/* Links inside the navbar */
+
+
+/* Dropdown button */
+.dropbtn {
+position: relative;
+left: 75px;
+top: 22px;
+background: #15294b;
+border: none;
+color: white;
+font-weight: 400;
+font-size: 18px;
+}
+.dropbtn:hover{
+    color: white;
+}
+
+/* Add a red background color to navbar links on hover */
+.dta_pro a:hover, .dropdown:hover .dropbtn {
+background-color: #15294b;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: relative;
+    top: 7px;
+    background-color: #15294b;
+    width: 1480px;
+    height: 130px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+color: black;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+display: block;
+}
+.select_pr{
+    font-size: 14px;
+    position: relative;
+    top: 20px;
+    left: 80px;
+    color: white;
+    font-size: 12px;
+}
+.row_1{
+    font-size: 16px;
+    position: absolute;
+    top: 60px;
+    left: 90px;
+    color: white;
+}
+.row_2{
+    font-size: 16px;
+    position: absolute;
+    top: 60px;
+    left: 170px;
+    color: white;
+}
+.row_3{
+    font-size: 16px;
+    position: absolute;
+    top: 60px;
+    left: 290px;
+    color: white;
+}
+.row_4{
+    font-size: 16px;
+    position: absolute;
+    top: 73px;
+    left: 405px;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.program{
+    color: white;
+    position: relative;
+    left: 240px;
+    font-size: 24px;
+    top: -8px;
+    font-weight: 500;
+}
